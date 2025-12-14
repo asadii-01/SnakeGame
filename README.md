@@ -4,7 +4,7 @@ A modern, feature-rich iteration of the classic Snake arcade game built using **
 
 This project goes beyond the basics by introducing a risk-reward food system, progressive difficulty scaling, directional sprite rendering, and a polished UI.
 
-*(Placeholder: Add a screenshot of your Start Menu here)*
+![StartView](https://github.com/asadii-01/SnakeGame/blob/main/ScreenShots/StartView.png)
 
 ## ✨ Features
 
@@ -20,7 +20,9 @@ This project goes beyond the basics by introducing a risk-reward food system, pr
 
 ## 🎮 Gameplay
 
-*(Placeholder: Add a screenshot of the gameplay in action here)*
+![NormalView](https://github.com/asadii-01/SnakeGame/blob/main/ScreenShots/NormalView.png)
+![PausedView](https://github.com/asadii-01/SnakeGame/blob/main/ScreenShots/PausedView.png)
+![GameOverView](https://github.com/asadii-01/SnakeGame/blob/main/ScreenShots/GameOverView.png)
 
 ### Controls
 
@@ -47,7 +49,7 @@ This project goes beyond the basics by introducing a risk-reward food system, pr
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/snake-game-winforms.git](https://github.com/yourusername/snake-game-winforms.git)
+    git clone [https://github.com/asadii-01/SnakeGame](https://github.com/asadii-01/SnakeGame)
     ```
 2.  **Open the Project**
     * Navigate to the folder and open `SnakeGame.sln` in Visual Studio.
