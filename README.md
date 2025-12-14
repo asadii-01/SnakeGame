@@ -49,7 +49,7 @@ This project goes beyond the basics by introducing a risk-reward food system, pr
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/asadii-01/SnakeGame](https://github.com/asadii-01/SnakeGame)
+    git clone https://github.com/asadii-01/SnakeGame
     ```
 2.  **Open the Project**
     * Navigate to the folder and open `SnakeGame.sln` in Visual Studio.
